@@ -16,4 +16,4 @@ time_samples used as an array to store time sequences for each trigger cell from
 'get_imp_response' fn to get impulse response (also see drs_fdm_parser class)
 'recover_resonator_pulses' for pulse recovery
 'get_amp_timing' get get pulse amplitude and timing
-After line 351, we divide the pulse amplitude into energy ranges to get means and std for the errors in amp and timing.
+After line 351, we divide the pulse amplitude into energy ranges to get means and std for the errors in amp and timing. Done.
